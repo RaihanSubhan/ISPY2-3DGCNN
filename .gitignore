@@ -1,0 +1,67 @@
+# Large ISPY2 data
+ispy2/
+data/
+datasets/
+raw_data/
+raw/
+processed_data/
+processed/
+derived/
+outputs/
+results/
+checkpoints/
+models/
+
+# Medical images
+*.dcm
+*.nii
+*.nii.gz
+*.nrrd
+*.mha
+*.mhd
+*.img
+*.hdr
+
+# Large ML/data files
+*.pt
+*.pth
+*.ckpt
+*.pkl
+*.pickle
+*.npz
+*.npy
+*.parquet
+*.h5
+*.hdf5
+*.csv.gz
+*.tsv.gz
+
+# Archives
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+*.rar
+*.7z
+
+# Logs and SLURM output
+*.log
+slurm-*.out
+*.out
+*.err
+ISPY2_DOWNLOAD_DONE.txt
+
+# Python cache and environment
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+miniforge3/
+anaconda3/
+.conda/
+
+# OS files
+.DS_Store
+Thumbs.db
