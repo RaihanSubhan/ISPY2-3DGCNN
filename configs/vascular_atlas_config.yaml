@@ -1,0 +1,17 @@
+project_name: ISPY2_4D_Vascular_Perfusion_Tumor_Atlas
+data_root: /home/mdsubhan01/ispy2/ispy2
+output_root: reports
+phase: phase_1_inventory_visit_tracking_visual_demo
+main_research_goal: >
+  Build a 4D vascular-perfusion tumor atlas for ISPY2 breast MRI.
+  The atlas will track patient visits, tumor shape, enhancement profile,
+  vesselness, and longitudinal response-ready biomarkers.
+primary_model_after_feature_extraction: XGBoost with calibration and SHAP
+secondary_models:
+  - Temporal graph model for patient visit tracking
+  - 3D CNN or 3D U-Net after verified segmentation masks
+  - Offline RL only after state-action-reward design is validated
+important_rule:
+  - Do not commit raw DICOM data
+  - Do not commit NIfTI, model checkpoints, or large processed files
+  - Commit only scripts, small tables, and figures
