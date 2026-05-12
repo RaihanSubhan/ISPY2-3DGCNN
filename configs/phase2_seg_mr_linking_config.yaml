@@ -1,0 +1,17 @@
+project_name: ISPY2_4D_Vascular_Perfusion_Tumor_Atlas
+phase: phase_2_seg_mr_linking
+repo_root: /home/mdsubhan01/ISPY2-3DGCNN
+data_root: /home/mdsubhan01/ispy2/ispy2
+input_inventory: reports/tables/ispy2_series_inventory.csv
+input_candidate_mr: reports/tables/candidate_mr_series_best_per_patient.csv
+main_goal: >
+  Link verified DICOM SEG masks with MR visits and create quality-control tables.
+  This is the required bridge between Phase 1 cohort inventory and later tumor/perfusion biomarkers.
+outputs:
+  - SEG metadata table
+  - SEG-to-MR linking table
+  - SEG mask QC features
+  - figures for SEG availability, link status, segment labels, and decoded mask projection
+important_limitation: >
+  Decoded DICOM SEG frame counts are quality-control features. Final tumor volume features
+  should be computed after spatial registration and verified MR-SEG alignment.
