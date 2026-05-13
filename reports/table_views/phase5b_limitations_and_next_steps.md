@@ -1,0 +1,12 @@
+# Phase 5B Limitations and Next Steps
+
+Rows: 5
+Columns: 4
+
+| issue | current_state | risk | next_step |
+| --- | --- | --- | --- |
+| Small labeled cohort | Only 33 labeled patients were used. | Model performance may be unstable. | Expand geometry-ready feature extraction to more patients. |
+| Pilot-level biomarkers | Current features are geometry QC and volume-proxy based. | They may not fully represent vascular-perfusion biology. | Compute verified tumor, peritumor, vesselness, radial signal, and longitudinal delta fe... |
+| No external validation | All evaluation is internal cross-validation. | Generalization is unknown. | Use a held-out cohort or external breast MRI dataset later. |
+| Deep learning not yet justified | Only 33 labels are available. | CNN, GNN, or RL models may overfit. | Use interpretable ML first, then add deep models after cohort expansion. |
+| XGBoost unavailable | Phase 5A reported XGBoost as not available. | XGBoost was not compared yet. | Install XGBoost later and rerun Phase 5A after feature expansion. |

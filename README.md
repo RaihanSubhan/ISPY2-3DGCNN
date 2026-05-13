@@ -60,3 +60,11 @@ Main outputs:
 - reports/tables/phase5a_model_calibration_metrics.csv
 - reports/tables/phase5a_feature_importance.csv
 - reports/Phase5A_Model_Calibration_Interpretation_Summary.md
+
+### Phase 5B: manuscript-ready pilot report
+
+Main outputs:
+
+- reports/Phase5B_Manuscript_Ready_Results_Report.md
+- reports/tables/phase5b_key_results_summary.csv
+- reports/figures/120_phase5b_pipeline_summary.png

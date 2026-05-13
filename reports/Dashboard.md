@@ -60,3 +60,9 @@ This dashboard gives GitHub-readable table previews for the ISPY2 4D vascular-pe
 - [Model calibration metrics](table_views/phase5a_model_calibration_metrics.md)
 - [Feature importance](table_views/phase5a_feature_importance.md)
 - [Model recommendation](table_views/phase5a_model_recommendation.md)
+
+## Phase 5B manuscript-ready outputs
+
+- [Manuscript-ready results report](Phase5B_Manuscript_Ready_Results_Report.md)
+- [Key results summary](table_views/phase5b_key_results_summary.md)
+- [Limitations and next steps](table_views/phase5b_limitations_and_next_steps.md)

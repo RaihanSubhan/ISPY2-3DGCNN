@@ -1,0 +1,15 @@
+# Phase 5B Key Results Summary
+
+Rows: 8
+Columns: 4
+
+| section | item | value | interpretation |
+| --- | --- | --- | --- |
+| Cohort | Labeled patients | 33 | Small pilot cohort for feasibility analysis. |
+| Cohort | pCR positive | 20 | Patients labeled as pCR or responder. |
+| Cohort | non-pCR negative | 13 | Patients labeled as non-pCR or non-responder. |
+| Cohort | pCR rate | 0.6061 | This is also the baseline rate for AUPRC comparison. |
+| Best model | Recommended pilot model | LogisticRegression | Selected by AUROC, then AUPRC, then Brier score. |
+| Performance | AUROC | 0.5462 | Discrimination is weak in this small pilot cohort. |
+| Performance | AUPRC | 0.7506 | Compare with pCR rate baseline. |
+| Performance | Brier score | 0.2662 | Probability calibration error. Lower is better. |
