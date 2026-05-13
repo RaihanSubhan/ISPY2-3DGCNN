@@ -76,3 +76,10 @@ Main outputs:
 - reports/Segmentation_QC_Report.md
 - reports/tables/segmentation_qc_case_audit.csv
 - reports/figures/130_segmentation_qc_overlay_grid.png
+
+### Phase 6A: QC-pass tumor and vascular features
+
+Main outputs:
+
+- reports/tables/phase6a_qc_pass_tumor_vascular_features.csv
+- reports/Phase6A_QC_Pass_Tumor_Vascular_Feature_Summary.md

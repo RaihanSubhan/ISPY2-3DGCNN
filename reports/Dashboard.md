@@ -71,3 +71,7 @@ This dashboard gives GitHub-readable table previews for the ISPY2 4D vascular-pe
 
 - [Segmentation QC report](Segmentation_QC_Report.md)
 - [Segmentation QC audit table](table_views/segmentation_qc_case_audit.md)
+
+## Phase 6A table view
+
+- [QC-pass tumor vascular features](table_views/phase6a_qc_pass_tumor_vascular_features.md)
