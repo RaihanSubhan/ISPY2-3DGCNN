@@ -1,0 +1,8 @@
+table,exists,rows,columns,view_file
+ispy2_patient_summary.csv,yes,719,6,reports/table_views/ispy2_patient_summary.md
+cohort_visit_tracker_table.csv,yes,2688,8,reports/table_views/cohort_visit_tracker_table.md
+candidate_mr_series_best_per_patient.csv,yes,719,24,reports/table_views/candidate_mr_series_best_per_patient.md
+seg_series_metadata.csv,yes,2688,22,reports/table_views/seg_series_metadata.md
+seg_mr_link_table.csv,yes,2688,21,reports/table_views/seg_mr_link_table.md
+seg_mask_qc_features.csv,yes,120,17,reports/table_views/seg_mask_qc_features.md
+unified_model_heads_for_atlas.csv,yes,4,5,reports/table_views/unified_model_heads_for_atlas.md
