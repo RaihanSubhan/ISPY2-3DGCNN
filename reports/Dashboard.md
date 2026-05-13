@@ -39,3 +39,7 @@ This dashboard gives GitHub-readable table previews for the ISPY2 4D vascular-pe
 
 - [pCR label template](table_views/phase4c_pcr_label_template.md)
 - [Label candidate review](table_views/phase4c_label_candidate_review.md)
+
+## Phase 4D table view
+
+- [Label candidate preview](table_views/phase4d_label_candidate_preview.md)
