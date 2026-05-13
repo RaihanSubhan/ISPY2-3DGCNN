@@ -52,3 +52,11 @@ Main outputs:
 - reports/tables/phase4a_required_label_template.csv
 - reports/tables/phase4c_pcr_label_template.csv
 - reports/Phase4C_PCR_Label_Resolution_Summary.md
+
+### Phase 5A: model calibration and interpretation
+
+Main outputs:
+
+- reports/tables/phase5a_model_calibration_metrics.csv
+- reports/tables/phase5a_feature_importance.csv
+- reports/Phase5A_Model_Calibration_Interpretation_Summary.md

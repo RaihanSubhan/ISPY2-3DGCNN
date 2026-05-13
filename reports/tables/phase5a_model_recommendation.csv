@@ -1,0 +1,2 @@
+recommended_model,selection_rule,AUROC,AUPRC,Brier_score,why,xgboost_available
+LogisticRegression,"highest AUROC, then highest AUPRC, then lowest Brier score",0.5461538461538461,0.7506391256164644,0.26616661003690567,"This is a pilot model. It gives the best cross-validated discrimination among the tested models, but it must be validated on a larger cohort.",not_available
