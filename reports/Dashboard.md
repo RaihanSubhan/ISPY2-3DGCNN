@@ -25,3 +25,7 @@ This dashboard gives GitHub-readable table previews for the ISPY2 4D vascular-pe
 ## Phase 3C table view
 
 - [Phase 3C geometry matching QC](table_views/phase3c_geometry_matching_qc.md)
+
+## Phase 3D table view
+
+- [Phase 3D verified biomarker table](table_views/phase3d_verified_biomarker_table.md)

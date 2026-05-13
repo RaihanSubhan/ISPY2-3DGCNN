@@ -28,3 +28,11 @@ Main outputs:
 - reports/tables/phase3b_tumor_peritumor_features_pilot.csv
 - reports/table_views/phase3b_tumor_peritumor_features_pilot.md
 - reports/Phase3B_Tumor_Peritumor_Features_Summary.md
+
+### Phase 3D: verified biomarker table
+
+Main outputs:
+
+- reports/tables/phase3d_verified_biomarker_table.csv
+- reports/table_views/phase3d_verified_biomarker_table.md
+- reports/Phase3D_Verified_Biomarker_Table_Summary.md
