@@ -68,3 +68,11 @@ Main outputs:
 - reports/Phase5B_Manuscript_Ready_Results_Report.md
 - reports/tables/phase5b_key_results_summary.csv
 - reports/figures/120_phase5b_pipeline_summary.png
+
+### Segmentation QC fix
+
+Main outputs:
+
+- reports/Segmentation_QC_Report.md
+- reports/tables/segmentation_qc_case_audit.csv
+- reports/figures/130_segmentation_qc_overlay_grid.png

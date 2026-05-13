@@ -66,3 +66,8 @@ This dashboard gives GitHub-readable table previews for the ISPY2 4D vascular-pe
 - [Manuscript-ready results report](Phase5B_Manuscript_Ready_Results_Report.md)
 - [Key results summary](table_views/phase5b_key_results_summary.md)
 - [Limitations and next steps](table_views/phase5b_limitations_and_next_steps.md)
+
+## Segmentation QC
+
+- [Segmentation QC report](Segmentation_QC_Report.md)
+- [Segmentation QC audit table](table_views/segmentation_qc_case_audit.md)
