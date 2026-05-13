@@ -21,3 +21,7 @@ This dashboard gives GitHub-readable table previews for the ISPY2 4D vascular-pe
 ## Phase 3B table view
 
 - [Phase 3B tumor and peritumor feature pilot](table_views/phase3b_tumor_peritumor_features_pilot.md)
+
+## Phase 3C table view
+
+- [Phase 3C geometry matching QC](table_views/phase3c_geometry_matching_qc.md)
