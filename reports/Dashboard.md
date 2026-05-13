@@ -29,3 +29,8 @@ This dashboard gives GitHub-readable table previews for the ISPY2 4D vascular-pe
 ## Phase 3D table view
 
 - [Phase 3D verified biomarker table](table_views/phase3d_verified_biomarker_table.md)
+
+## Phase 4A table views
+
+- [Label source inventory](table_views/phase4a_label_source_inventory.md)
+- [Feature completeness](table_views/phase4a_feature_completeness.md)

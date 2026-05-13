@@ -36,3 +36,11 @@ Main outputs:
 - reports/tables/phase3d_verified_biomarker_table.csv
 - reports/table_views/phase3d_verified_biomarker_table.md
 - reports/Phase3D_Verified_Biomarker_Table_Summary.md
+
+### Phase 4A: label and modeling readiness
+
+Main outputs:
+
+- reports/tables/phase4a_label_source_inventory.csv
+- reports/tables/phase4a_required_label_template.csv
+- reports/Phase4A_Label_and_Modeling_Readiness_Summary.md
