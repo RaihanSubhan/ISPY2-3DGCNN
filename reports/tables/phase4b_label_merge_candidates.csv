@@ -14,5 +14,5 @@ file_path,patient_column,patient_overlap,label_column,usable_labeled_patients,n_
 /home/mdsubhan01/ISPY2-3DGCNN/reports/tables/ispy2_patient_summary.csv,patient_folder,35,,0,0,0,no_patient_or_label_column
 /home/mdsubhan01/ISPY2-3DGCNN/reports/tables/github_table_view_index.csv,,0,,0,0,0,no_patient_or_label_column
 /home/mdsubhan01/ISPY2-3DGCNN/reports/tables/unified_model_heads_for_atlas.csv,,0,,0,0,0,no_patient_or_label_column
-/home/mdsubhan01/ISPY2-3DGCNN/reports/tables/phase4a_required_label_template.csv,patient_folder,35,pCR_label,0,0,0,not_enough_two_class_labels
+/home/mdsubhan01/ISPY2-3DGCNN/reports/tables/phase4a_required_label_template.csv,patient_folder,35,pCR_label,33,20,13,usable
 /home/mdsubhan01/ISPY2-3DGCNN/reports/tables/phase4a_required_label_template.csv,patient_folder,35,response_label,0,0,0,not_enough_two_class_labels
