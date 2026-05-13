@@ -44,3 +44,11 @@ Main outputs:
 - reports/tables/phase4a_label_source_inventory.csv
 - reports/tables/phase4a_required_label_template.csv
 - reports/Phase4A_Label_and_Modeling_Readiness_Summary.md
+
+### Phase 4C: pCR label resolution
+
+Main outputs:
+
+- reports/tables/phase4a_required_label_template.csv
+- reports/tables/phase4c_pcr_label_template.csv
+- reports/Phase4C_PCR_Label_Resolution_Summary.md
