@@ -17,3 +17,7 @@ This dashboard gives GitHub-readable table previews for the ISPY2 4D vascular-pe
 - GitHub also renders the original `.csv` files as interactive tables.
 - Markdown table views are smaller previews for README-style reading.
 - Raw ISPY2 DICOM data is not stored in this repository.
+
+## Phase 3B table view
+
+- [Phase 3B tumor and peritumor feature pilot](table_views/phase3b_tumor_peritumor_features_pilot.md)
