@@ -67,3 +67,4 @@ anaconda3/
 Thumbs.db
 reports/logs/
 *.tmp
+external/

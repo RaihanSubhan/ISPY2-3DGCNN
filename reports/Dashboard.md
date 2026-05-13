@@ -43,3 +43,14 @@ This dashboard gives GitHub-readable table previews for the ISPY2 4D vascular-pe
 ## Phase 4D table view
 
 - [Label candidate preview](table_views/phase4d_label_candidate_preview.md)
+
+## Phase 4E table views
+
+- [Downloaded label candidates](table_views/phase4e_downloaded_label_candidates.md)
+- [Clinical download log](table_views/phase4e_clinical_download_log.md)
+
+## Phase 4B table views
+
+- [Model performance](table_views/phase4b_model_performance.md)
+- [Modeling dataset](table_views/phase4b_modeling_dataset.md)
+- [Label merge candidates](table_views/phase4b_label_merge_candidates.md)
