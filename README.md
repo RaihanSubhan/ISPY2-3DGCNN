@@ -163,3 +163,11 @@ Main outputs:
 - reports/Phase8D_FTV_vs_Baseline_Manuscript_Result.md
 - reports/tables/phase8d_baseline_vs_ftv_model_comparison.csv
 - reports/figures/260_phase8d_baseline_vs_ftv_metrics.png
+
+### Phase 8E: final research proposal and manuscript plan
+
+Main outputs:
+
+- reports/Phase8E_Final_Research_Proposal_and_Manuscript_Plan.md
+- reports/tables/phase8e_final_project_status.csv
+- reports/figures/270_phase8e_project_pipeline.png

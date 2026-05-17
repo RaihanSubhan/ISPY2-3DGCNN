@@ -132,3 +132,10 @@ This dashboard gives GitHub-readable table previews for the ISPY2 4D vascular-pe
 - [FTV vs baseline manuscript result](Phase8D_FTV_vs_Baseline_Manuscript_Result.md)
 - [Baseline vs FTV comparison](table_views/phase8d_baseline_vs_ftv_model_comparison.md)
 - [Metric delta summary](table_views/phase8d_metric_delta_summary.md)
+
+## Phase 8E final research plan
+
+- [Final research proposal and manuscript plan](Phase8E_Final_Research_Proposal_and_Manuscript_Plan.md)
+- [Final project status](table_views/phase8e_final_project_status.md)
+- [Manuscript outline](table_views/phase8e_manuscript_outline.md)
+- [Future temporal graph plan](table_views/phase8e_future_temporal_graph_plan.md)

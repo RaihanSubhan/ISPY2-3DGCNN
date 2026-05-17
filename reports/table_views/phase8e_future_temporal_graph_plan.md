@@ -1,0 +1,12 @@
+# Phase 8E Future Temporal Graph Plan
+
+Rows: 5
+Columns: 4
+
+| step | task | reason | output |
+| --- | --- | --- | --- |
+| 1 | Use official support-data features as tumor source | DICOM SEG tumor masks were not reliable enough. | Clean patient-visit FTV/PE/SER feature table. |
+| 2 | Create patient-level longitudinal visit graph | Treatment response is temporal, not static. | Nodes = visits, edges = time order. |
+| 3 | Add tumor-region feature graph when PE/SER or ROI maps are available | Spatial tumor heterogeneity should be represented by regions or supervoxels. | Nodes = tumor habitats or supervoxels. |
+| 4 | Train temporal graph model | Graph model can learn change patterns across visits. | pCR probability and response trajectory. |
+| 5 | Compare with classical ML | Must prove temporal graph model is better than FTV baseline. | AUROC, AUPRC, Brier, calibration, and feature/attention explanation. |

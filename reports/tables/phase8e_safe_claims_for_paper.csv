@@ -1,0 +1,11 @@
+claim_type,claim,reason
+safe_claim,"A reproducible Cradle and GitHub pipeline was built for ISPY2 inventory, label mapping, feature extraction, and pilot ML.",This is supported by the generated phase reports and committed outputs.
+safe_claim,The official FTV / multi-feature MRI support-data path is stronger than the recovered DICOM SEG path.,"Phase 8C created a usable pCR modeling set, while Phase 7E/7F could not support ML from recovered SEG masks."
+safe_claim,The Phase 8C FTV support-data model improved AUROC over the Phase 5A baseline in this pilot experiment.,Phase 8C best AUROC is higher than Phase 5A best AUROC.
+avoid_claim,The model is clinically validated.,"The cohort is small, only 13 labeled FTV patients were used for Phase 8C."
+avoid_claim,DICOM SEG tumor masks are reliable tumor masks.,"Phase 7B showed current DICOM SEG masks were mostly full-slice masks, and only a limited number were recoverable by thresholding."
+future_claim,A temporal graph model may improve response prediction after stable patient-visit tumor features are built.,"This is a future direction, not yet tested in the current repo."
+safe_claim,"The project developed a reproducible Cradle-to-GitHub pipeline for ISPY2 data handling, tumor-source diagnosis, pCR label mapping, and pilot modeling.",All phases and outputs are tracked in the repository.
+safe_claim,The official FTV/MRI support-data route produced a stronger pilot pCR signal than the earlier internal proxy route.,Phase 8C AUROC exceeded Phase 5A AUROC.
+avoid_claim,The model is ready for clinical use.,Only 13 labeled patients were used in Phase 8C.
+avoid_claim,The DICOM SEG masks are confirmed tumor masks.,Phase 7B showed the DICOM SEG masks were mostly full-slice masks.
