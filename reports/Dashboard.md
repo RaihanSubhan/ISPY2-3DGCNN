@@ -93,3 +93,8 @@ This dashboard gives GitHub-readable table previews for the ISPY2 4D vascular-pe
 - [Fractional SEG recovery report](Phase7C_Fractional_SEG_Threshold_Recovery_Report.md)
 - [Fractional tumor mask candidates](table_views/phase7c_fractional_tumor_mask_candidate_table.md)
 - [Threshold audit](table_views/phase7c_fractional_threshold_audit.md)
+
+## Phase 7D recovered tumor features
+
+- [Recovered tumor feature report](Phase7D_Recovered_Tumor_Feature_Rebuild_Report.md)
+- [Recovered tumor vascular features](table_views/phase7d_recovered_tumor_vascular_features.md)

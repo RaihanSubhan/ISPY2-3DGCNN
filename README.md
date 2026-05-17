@@ -107,3 +107,11 @@ Main outputs:
 - reports/Phase7C_Fractional_SEG_Threshold_Recovery_Report.md
 - reports/tables/phase7c_fractional_tumor_mask_candidate_table.csv
 - reports/figures/192_phase7c_fractional_overlay_grid.png
+
+### Phase 7D: recovered tumor feature rebuild
+
+Main outputs:
+
+- reports/Phase7D_Recovered_Tumor_Feature_Rebuild_Report.md
+- reports/tables/phase7d_recovered_tumor_vascular_features.csv
+- reports/figures/200_phase7d_recovered_overlay_grid.png
