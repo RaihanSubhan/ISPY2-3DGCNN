@@ -18,10 +18,10 @@ Phase 7B showed that `arr > 0` selected full-slice analysis masks. Since these S
 
 ## Main counts
 
-- Cases tested: 300
-- Fractional tumor candidate pass cases: 8
-- No-threshold-candidate cases: 267
-- Review-needed cases: 25
+- Cases tested: 2688
+- Fractional tumor candidate pass cases: 94
+- No-threshold-candidate cases: 2339
+- Review-needed cases: 255
 - Failed cases: 0
 
 ## Interpretation

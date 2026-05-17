@@ -123,3 +123,11 @@ Main outputs:
 - reports/Phase7E_Recovered_Tumor_pCR_Feasibility_Report.md
 - reports/tables/phase7e_recovered_tumor_label_merge.csv
 - reports/tables/phase7e_recovered_tumor_model_performance.csv
+
+### Phase 7F: expanded recovered tumor cohort
+
+Main outputs:
+
+- reports/Phase7F_Expanded_Recovered_Tumor_Cohort_Report.md
+- reports/tables/phase7f_expanded_recovered_cohort_summary.csv
+- reports/figures/220_phase7f_expansion_summary.png

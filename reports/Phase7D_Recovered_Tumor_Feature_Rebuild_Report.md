@@ -13,8 +13,8 @@ This phase rebuilds tumor and vascular features using only Phase 7C fractional t
 
 ## Main counts
 
-- Phase 7C pass cases attempted: 8
-- Feature extraction success cases: 8
+- Phase 7C pass cases attempted: 94
+- Feature extraction success cases: 94
 - Failed or rejected cases: 0
 
 ## Interpretation

@@ -15,8 +15,8 @@ This phase merges recovered Phase 7D tumor/vascular features with pCR labels.
 
 ## Main counts
 
-- Recovered feature rows: 8
-- Unique recovered feature patients: 4
+- Recovered feature rows: 94
+- Unique recovered feature patients: 44
 - Labeled recovered records: 2
 - Labeled recovered patients: 2
 - pCR positive patients: 1

@@ -1,6 +1,6 @@
 # Phase 7C Fractional Threshold Audit
 
-Rows: 3636
+Rows: 32766
 Columns: 15
 
 | threshold | threshold_status | score | nonzero_frames | max_frame_pixels | median_nonzero_frame_pixels | max_frame_fraction | median_nonzero_frame_fraction | total_mask_fraction_3d | total_mask_pixels | case_no | patient_folder |

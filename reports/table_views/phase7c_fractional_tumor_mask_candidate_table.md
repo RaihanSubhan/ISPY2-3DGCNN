@@ -1,6 +1,6 @@
 # Phase 7C Fractional Tumor Mask Candidate Table
 
-Rows: 300
+Rows: 2688
 Columns: 33
 
 | case_no | patient_folder | study_folder | seg_series_uid | seg_file | matched_mr_series_path | recovery_status | segmentation_type | segment_text | n_frames | rows | cols |
