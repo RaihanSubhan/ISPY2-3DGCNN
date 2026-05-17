@@ -81,3 +81,9 @@ This dashboard gives GitHub-readable table previews for the ISPY2 4D vascular-pe
 - [Tumor SEG decoding fix report](Phase7A_Tumor_SEG_Decoding_Fix_Report.md)
 - [Tumor mask candidate table](table_views/phase7a_tumor_mask_candidate_table.md)
 - [SEG segment label audit](table_views/phase7a_seg_segment_label_audit.md)
+
+## Phase 7B deep SEG diagnosis
+
+- [Deep SEG diagnosis report](Phase7B_Deep_SEG_Diagnosis_Report.md)
+- [SEG case diagnosis](table_views/phase7b_seg_case_deep_diagnosis.md)
+- [SEG segment diagnosis](table_views/phase7b_seg_segment_deep_diagnosis.md)

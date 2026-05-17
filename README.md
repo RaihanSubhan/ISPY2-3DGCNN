@@ -91,3 +91,11 @@ Main outputs:
 - reports/Phase7A_Tumor_SEG_Decoding_Fix_Report.md
 - reports/tables/phase7a_tumor_mask_candidate_table.csv
 - reports/figures/170_phase7a_tumor_mask_overlay_grid.png
+
+### Phase 7B: deep SEG diagnosis
+
+Main outputs:
+
+- reports/Phase7B_Deep_SEG_Diagnosis_Report.md
+- reports/tables/phase7b_seg_case_deep_diagnosis.csv
+- reports/tables/phase7b_seg_segment_deep_diagnosis.csv
