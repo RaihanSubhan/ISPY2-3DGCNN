@@ -115,3 +115,11 @@ Main outputs:
 - reports/Phase7D_Recovered_Tumor_Feature_Rebuild_Report.md
 - reports/tables/phase7d_recovered_tumor_vascular_features.csv
 - reports/figures/200_phase7d_recovered_overlay_grid.png
+
+### Phase 7E: recovered tumor pCR feasibility
+
+Main outputs:
+
+- reports/Phase7E_Recovered_Tumor_pCR_Feasibility_Report.md
+- reports/tables/phase7e_recovered_tumor_label_merge.csv
+- reports/tables/phase7e_recovered_tumor_model_performance.csv

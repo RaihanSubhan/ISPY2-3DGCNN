@@ -1,0 +1,8 @@
+# Phase 7E Recovered Tumor Model Performance
+
+Rows: 1
+Columns: 6
+
+| reason | labeled_patients | positive_pCR | negative_non_pCR | numeric_features | rule |
+| --- | --- | --- | --- | --- | --- |
+| ML not run | 2 | 1 | 1 | 34 | Need at least 6 labeled patients, at least 2 pCR, at least 2 non-pCR, and at least 2 nu... |

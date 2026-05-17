@@ -98,3 +98,9 @@ This dashboard gives GitHub-readable table previews for the ISPY2 4D vascular-pe
 
 - [Recovered tumor feature report](Phase7D_Recovered_Tumor_Feature_Rebuild_Report.md)
 - [Recovered tumor vascular features](table_views/phase7d_recovered_tumor_vascular_features.md)
+
+## Phase 7E recovered tumor pCR feasibility
+
+- [Recovered tumor pCR feasibility report](Phase7E_Recovered_Tumor_pCR_Feasibility_Report.md)
+- [Recovered tumor label merge](table_views/phase7e_recovered_tumor_label_merge.md)
+- [Recovered tumor model performance](table_views/phase7e_recovered_tumor_model_performance.md)
