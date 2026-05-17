@@ -99,3 +99,11 @@ Main outputs:
 - reports/Phase7B_Deep_SEG_Diagnosis_Report.md
 - reports/tables/phase7b_seg_case_deep_diagnosis.csv
 - reports/tables/phase7b_seg_segment_deep_diagnosis.csv
+
+### Phase 7C: fractional SEG threshold recovery
+
+Main outputs:
+
+- reports/Phase7C_Fractional_SEG_Threshold_Recovery_Report.md
+- reports/tables/phase7c_fractional_tumor_mask_candidate_table.csv
+- reports/figures/192_phase7c_fractional_overlay_grid.png

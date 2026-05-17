@@ -87,3 +87,9 @@ This dashboard gives GitHub-readable table previews for the ISPY2 4D vascular-pe
 - [Deep SEG diagnosis report](Phase7B_Deep_SEG_Diagnosis_Report.md)
 - [SEG case diagnosis](table_views/phase7b_seg_case_deep_diagnosis.md)
 - [SEG segment diagnosis](table_views/phase7b_seg_segment_deep_diagnosis.md)
+
+## Phase 7C fractional SEG threshold recovery
+
+- [Fractional SEG recovery report](Phase7C_Fractional_SEG_Threshold_Recovery_Report.md)
+- [Fractional tumor mask candidates](table_views/phase7c_fractional_tumor_mask_candidate_table.md)
+- [Threshold audit](table_views/phase7c_fractional_threshold_audit.md)
