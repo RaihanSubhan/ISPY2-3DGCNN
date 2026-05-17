@@ -126,3 +126,9 @@ This dashboard gives GitHub-readable table previews for the ISPY2 4D vascular-pe
 - [FTV feature modeling report](Phase8C_FTV_Feature_Modeling_Report.md)
 - [FTV modeling dataset](table_views/phase8c_ftv_modeling_dataset.md)
 - [FTV model performance](table_views/phase8c_ftv_model_performance.md)
+
+## Phase 8D FTV vs baseline result
+
+- [FTV vs baseline manuscript result](Phase8D_FTV_vs_Baseline_Manuscript_Result.md)
+- [Baseline vs FTV comparison](table_views/phase8d_baseline_vs_ftv_model_comparison.md)
+- [Metric delta summary](table_views/phase8d_metric_delta_summary.md)

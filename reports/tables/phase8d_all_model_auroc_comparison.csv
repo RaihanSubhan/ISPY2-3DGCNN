@@ -1,0 +1,10 @@
+analysis,model,AUROC
+Phase 5A,LogisticRegression,0.5461538461538461
+Phase 5A,RandomForest,0.5
+Phase 5A,GradientBoosting,0.473076923076923
+Phase 5A,SVM_RBF,0.4461538461538462
+Phase 5A,KNN,0.4365384615384615
+Phase 8C,SVM_RBF,0.6666666666666667
+Phase 8C,GradientBoosting,0.5357142857142857
+Phase 8C,RandomForest,0.5
+Phase 8C,LogisticRegression,0.4999999999999999

@@ -1,0 +1,10 @@
+# Phase 8D Metric Delta Summary
+
+Rows: 3
+Columns: 4
+
+| metric | phase5a_baseline | phase8c_ftv | difference_phase8c_minus_phase5a |
+| --- | --- | --- | --- |
+| AUROC | 0.5461538461538461 | 0.6666666666666667 | 0.12051282051282064 |
+| AUPRC | 0.7506391256164644 | 0.7527734170591311 | 0.002134291442666747 |
+| Brier_score | 0.2661666100369056 | 0.2405088066605158 | -0.025657803376389815 |

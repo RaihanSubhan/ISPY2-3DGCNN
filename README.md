@@ -155,3 +155,11 @@ Main outputs:
 - reports/Phase8C_FTV_Feature_Modeling_Report.md
 - reports/tables/phase8c_ftv_modeling_dataset.csv
 - reports/tables/phase8c_ftv_model_performance.csv
+
+### Phase 8D: FTV vs baseline manuscript-ready result
+
+Main outputs:
+
+- reports/Phase8D_FTV_vs_Baseline_Manuscript_Result.md
+- reports/tables/phase8d_baseline_vs_ftv_model_comparison.csv
+- reports/figures/260_phase8d_baseline_vs_ftv_metrics.png
