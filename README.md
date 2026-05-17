@@ -83,3 +83,11 @@ Main outputs:
 
 - reports/tables/phase6a_qc_pass_tumor_vascular_features.csv
 - reports/Phase6A_QC_Pass_Tumor_Vascular_Feature_Summary.md
+
+### Phase 7A: tumor SEG decoding fix
+
+Main outputs:
+
+- reports/Phase7A_Tumor_SEG_Decoding_Fix_Report.md
+- reports/tables/phase7a_tumor_mask_candidate_table.csv
+- reports/figures/170_phase7a_tumor_mask_overlay_grid.png

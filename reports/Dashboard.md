@@ -75,3 +75,9 @@ This dashboard gives GitHub-readable table previews for the ISPY2 4D vascular-pe
 ## Phase 6A table view
 
 - [QC-pass tumor vascular features](table_views/phase6a_qc_pass_tumor_vascular_features.md)
+
+## Phase 7A tumor SEG fix
+
+- [Tumor SEG decoding fix report](Phase7A_Tumor_SEG_Decoding_Fix_Report.md)
+- [Tumor mask candidate table](table_views/phase7a_tumor_mask_candidate_table.md)
+- [SEG segment label audit](table_views/phase7a_seg_segment_label_audit.md)
