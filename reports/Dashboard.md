@@ -114,3 +114,9 @@ This dashboard gives GitHub-readable table previews for the ISPY2 4D vascular-pe
 
 - [Support-data tumor source search report](Phase8A_Support_Data_Tumor_Source_Search_Report.md)
 - [Support source candidates](table_views/phase8a_support_source_candidates.md)
+
+## Phase 8B tumor source manifest
+
+- [Tumor source manifest report](Phase8B_Tumor_Source_Manifest_Report.md)
+- [Support source triage](table_views/phase8b_support_source_triage.md)
+- [Tumor source manifest](table_views/phase8b_tumor_source_manifest.md)

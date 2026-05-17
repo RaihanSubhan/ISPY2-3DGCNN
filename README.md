@@ -139,3 +139,11 @@ Main outputs:
 - reports/Phase8A_Support_Data_Tumor_Source_Search_Report.md
 - reports/tables/phase8a_support_source_candidates.csv
 - reports/figures/230_phase8a_candidate_types.png
+
+### Phase 8B: tumor source manifest
+
+Main outputs:
+
+- reports/Phase8B_Tumor_Source_Manifest_Report.md
+- reports/tables/phase8b_tumor_source_manifest.csv
+- reports/tables/phase8b_support_source_triage.csv
