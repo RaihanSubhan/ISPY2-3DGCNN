@@ -147,3 +147,11 @@ Main outputs:
 - reports/Phase8B_Tumor_Source_Manifest_Report.md
 - reports/tables/phase8b_tumor_source_manifest.csv
 - reports/tables/phase8b_support_source_triage.csv
+
+### Phase 8C: FTV feature modeling
+
+Main outputs:
+
+- reports/Phase8C_FTV_Feature_Modeling_Report.md
+- reports/tables/phase8c_ftv_modeling_dataset.csv
+- reports/tables/phase8c_ftv_model_performance.csv

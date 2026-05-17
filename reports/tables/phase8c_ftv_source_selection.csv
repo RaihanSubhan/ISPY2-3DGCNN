@@ -1,0 +1,7 @@
+file_path,read_status,rows,columns,patient_column,patient_overlap_with_labels,numeric_feature_count,source_score
+/home/mdsubhan01/ISPY2-3DGCNN/external/ispy2_clinical_support/Multi-feature_MRI_NACT_Data_b3cb2e5ecfa7.xlsx,read_ok,384,29,CLINICAL-TRIAL-SUBJECT-ID,13,29,159.384
+/home/mdsubhan01/ISPY2-3DGCNN/external/ispy2_clinical_support/Multi-feature-MRI-NACT-Data_ecf30cc01593.xlsx,read_ok,384,29,CLINICAL-TRIAL-SUBJECT-ID,13,29,159.384
+/home/mdsubhan01/ISPY2-3DGCNN/external/ispy2_support_sources/Multi-feature_MRI_NACT_Data_b3cb2e5ecf.xlsx,read_ok,384,29,CLINICAL-TRIAL-SUBJECT-ID,13,29,159.384
+/home/mdsubhan01/ISPY2-3DGCNN/external/ispy2_support_sources/Multi-feature-MRI-NACT-Data_ecf30cc015.xlsx,read_ok,384,29,CLINICAL-TRIAL-SUBJECT-ID,13,29,159.384
+/home/mdsubhan01/ISPY2-3DGCNN/external/ispy2_support_sources/Analysis_mask_files_description.v20211020_63cee03832.docx,failed_or_empty,0,0,,0,0,-1.0
+/home/mdsubhan01/ISPY2-3DGCNN/external/ispy2_support_sources/Analysis-mask-files-description.v20211020_357efed331.docx,failed_or_empty,0,0,,0,0,-1.0

@@ -120,3 +120,9 @@ This dashboard gives GitHub-readable table previews for the ISPY2 4D vascular-pe
 - [Tumor source manifest report](Phase8B_Tumor_Source_Manifest_Report.md)
 - [Support source triage](table_views/phase8b_support_source_triage.md)
 - [Tumor source manifest](table_views/phase8b_tumor_source_manifest.md)
+
+## Phase 8C FTV feature modeling
+
+- [FTV feature modeling report](Phase8C_FTV_Feature_Modeling_Report.md)
+- [FTV modeling dataset](table_views/phase8c_ftv_modeling_dataset.md)
+- [FTV model performance](table_views/phase8c_ftv_model_performance.md)
