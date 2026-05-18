@@ -171,3 +171,11 @@ Main outputs:
 - reports/Phase8E_Final_Research_Proposal_and_Manuscript_Plan.md
 - reports/tables/phase8e_final_project_status.csv
 - reports/figures/270_phase8e_project_pipeline.png
+
+### Phase 9A: longitudinal FTV graph-ready dataset
+
+Main outputs:
+
+- reports/Phase9A_Longitudinal_FTV_Graph_Dataset_Report.md
+- reports/tables/phase9a_longitudinal_visit_nodes.csv
+- reports/tables/phase9a_temporal_edges.csv
