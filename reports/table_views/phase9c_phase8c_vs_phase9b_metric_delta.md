@@ -1,0 +1,10 @@
+# Phase 9C Metric Delta
+
+Rows: 3
+Columns: 5
+
+| metric | phase8c_ftv | phase9b_temporal_delta | delta_phase9b_minus_phase8c | interpretation |
+| --- | --- | --- | --- | --- |
+| AUROC | 0.6666666666666667 | 0.5714285714285714 | -0.09523809523809534 | higher is better |
+| AUPRC | 0.7527734170591311 | 0.6059523809523809 | -0.14682103610675024 | higher is better |
+| Brier_score | 0.2405088066605158 | 0.2724052884615385 | 0.0318964818010227 | lower is better |

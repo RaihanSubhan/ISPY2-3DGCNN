@@ -187,3 +187,11 @@ Main outputs:
 - reports/Phase9B_Temporal_Delta_Baseline_Report.md
 - reports/tables/phase9b_temporal_delta_model_performance.csv
 - reports/tables/phase9b_vs_phase8c_comparison.csv
+
+### Phase 9C: temporal graph model decision
+
+Main outputs:
+
+- reports/Phase9C_Temporal_Graph_Model_Decision_Report.md
+- reports/tables/phase9c_model_decision_summary.csv
+- reports/figures/300_phase9c_model_decision.png

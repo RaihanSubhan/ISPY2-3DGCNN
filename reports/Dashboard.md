@@ -152,3 +152,9 @@ This dashboard gives GitHub-readable table previews for the ISPY2 4D vascular-pe
 - [Temporal-delta baseline report](Phase9B_Temporal_Delta_Baseline_Report.md)
 - [Temporal-delta model performance](table_views/phase9b_temporal_delta_model_performance.md)
 - [Phase 9B vs Phase 8C comparison](table_views/phase9b_vs_phase8c_comparison.md)
+
+## Phase 9C temporal graph decision
+
+- [Temporal graph model decision report](Phase9C_Temporal_Graph_Model_Decision_Report.md)
+- [Model decision summary](table_views/phase9c_model_decision_summary.md)
+- [Next research plan](table_views/phase9c_next_research_plan.md)
