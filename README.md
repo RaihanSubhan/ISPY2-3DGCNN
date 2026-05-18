@@ -179,3 +179,11 @@ Main outputs:
 - reports/Phase9A_Longitudinal_FTV_Graph_Dataset_Report.md
 - reports/tables/phase9a_longitudinal_visit_nodes.csv
 - reports/tables/phase9a_temporal_edges.csv
+
+### Phase 9B: temporal-delta baseline model
+
+Main outputs:
+
+- reports/Phase9B_Temporal_Delta_Baseline_Report.md
+- reports/tables/phase9b_temporal_delta_model_performance.csv
+- reports/tables/phase9b_vs_phase8c_comparison.csv
