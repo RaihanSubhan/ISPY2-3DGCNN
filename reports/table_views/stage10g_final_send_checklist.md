@@ -1,0 +1,16 @@
+# Stage 10G Final Send Checklist
+
+Rows: 9
+Columns: 2
+
+| item | status |
+| --- | --- |
+| Word report exists | yes |
+| PowerPoint exists | yes |
+| One-page summary exists | yes |
+| Talk track exists | yes |
+| Professor review ZIP exists | yes |
+| Safe main claim stated | yes |
+| Clinical validation overclaim avoided | yes |
+| Temporal GNN kept as future work | yes |
+| Obstacle map described as conceptual proxy only | yes |

@@ -191,3 +191,9 @@ This dashboard gives GitHub-readable table previews for the ISPY2 4D vascular-pe
 - [Final package QC report](Stage10F_Final_Package_QC_Professor_Review_Report.md)
 - [Final GitHub output index](Final_GitHub_Output_Index.md)
 - [Professor review checklist](table_views/stage10f_professor_review_checklist.md)
+
+## Stage 10G final professor handoff
+
+- [Final handoff fix report](Stage10G_Final_Handoff_Fix_Report.md)
+- [Professor handoff manifest](table_views/stage10g_professor_handoff_manifest.md)
+- `reports/final_package/ISPY2_FTV_pCR_Professor_Review_Bundle.zip`

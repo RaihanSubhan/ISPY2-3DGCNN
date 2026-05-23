@@ -247,3 +247,11 @@ Main outputs:
 - reports/Stage10F_Final_Package_QC_Professor_Review_Report.md
 - reports/Final_GitHub_Output_Index.md
 - reports/final_package/ISPY2_FTV_pCR_Professor_Review_Bundle.zip
+
+### Stage 10G: final professor handoff fix
+
+Main outputs:
+
+- reports/Stage10G_Final_Handoff_Fix_Report.md
+- reports/final_package/ISPY2_FTV_pCR_Professor_Review_Bundle.zip
+- reports/final_package/Professor_Email_Draft.md

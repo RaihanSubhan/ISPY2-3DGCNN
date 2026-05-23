@@ -1,0 +1,12 @@
+# Stage 10G Professor Handoff Manifest
+
+Rows: 5
+Columns: 4
+
+| file | type | send_to_professor | note |
+| --- | --- | --- | --- |
+| reports/final_package/ISPY2_FTV_pCR_Final_Report.docx | Word report | yes | Main report draft |
+| reports/final_package/ISPY2_FTV_pCR_Final_Presentation.pptx | PowerPoint | yes | Presentation slide deck |
+| reports/final_package/ISPY2_FTV_pCR_One_Page_Summary.md | short summary | optional | Short project summary |
+| reports/final_package/ISPY2_FTV_pCR_Professor_Talk_Track.md | meeting script | no | Use for your own meeting preparation |
+| reports/final_package/ISPY2_FTV_pCR_Professor_Review_Bundle.zip | ZIP bundle | optional | Contains report, slides, figures, summary, and checklist |

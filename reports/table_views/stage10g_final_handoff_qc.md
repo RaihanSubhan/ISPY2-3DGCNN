@@ -1,0 +1,28 @@
+# Stage 10G Final Handoff QC
+
+Rows: 21
+Columns: 4
+
+| file | exists | size_mb | purpose |
+| --- | --- | --- | --- |
+| reports/final_package/ISPY2_FTV_pCR_Final_Report.docx | yes | 1.5917 | supporting final output |
+| reports/final_package/ISPY2_FTV_pCR_Final_Presentation.pptx | yes | 1.6532 | supporting final output |
+| reports/final_package/ISPY2_FTV_pCR_One_Page_Summary.md | yes | 0.0013 | supporting final output |
+| reports/final_package/ISPY2_FTV_pCR_Professor_Talk_Track.md | yes | 0.0014 | supporting final output |
+| reports/Final_GitHub_Output_Index.md | yes | 0.0009 | supporting final output |
+| reports/Stage10F_Final_Package_QC_Professor_Review_Report.md | yes | 0.001 | supporting final output |
+| reports/Phase8D_FTV_vs_Baseline_Manuscript_Result.md | yes | 0.0018 | supporting final output |
+| reports/Phase9C_Temporal_Graph_Model_Decision_Report.md | yes | 0.0014 | supporting final output |
+| reports/figures/340_stage10d_master_methods_panel.png | yes | 1.4231 | supporting final output |
+| reports/figures/342_stage10d_final_pipeline_and_model_result.png | yes | 0.1263 | supporting final output |
+| reports/figures/260_phase8d_baseline_vs_ftv_metrics.png | yes | 0.0583 | supporting final output |
+| reports/figures/300_phase9c_model_decision.png | yes | 0.0511 | supporting final output |
+| reports/figures/283_phase9a_graph_schema.png | yes | 0.1313 | supporting final output |
+| reports/figures/350_stage10f_package_qc_status.png | yes | 0.0322 | supporting final output |
+| reports/figures/351_stage10f_final_story_flow.png | yes | 0.1161 | supporting final output |
+| reports/figures/352_stage10f_professor_meeting_agenda.png | yes | 0.1254 | supporting final output |
+| reports/tables/phase8d_baseline_vs_ftv_model_comparison.csv | yes | 0.0004 | supporting final output |
+| reports/tables/phase8c_ftv_model_performance.csv | yes | 0.0008 | supporting final output |
+| reports/tables/phase9c_model_decision_summary.csv | yes | 0.0003 | supporting final output |
+| reports/tables/stage10f_professor_review_checklist.csv | yes | 0.0011 | supporting final output |
+| reports/final_package/ISPY2_FTV_pCR_Professor_Review_Bundle.zip | yes | 5.0465 | professor review package |

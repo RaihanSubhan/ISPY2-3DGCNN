@@ -25,3 +25,10 @@
 ## Final decision
 
 The main current result is the Phase 8C FTV support-data SVM_RBF model. Temporal GNN is future work.
+
+## Final professor handoff files
+
+- `reports/final_package/ISPY2_FTV_pCR_Professor_Review_Bundle.zip`
+- `reports/final_package/Professor_Email_Draft.md`
+- `reports/Stage10G_Final_Handoff_Fix_Report.md`
+- `reports/tables/stage10g_professor_handoff_manifest.csv`
