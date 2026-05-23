@@ -213,3 +213,12 @@ Main outputs:
 - reports/figures/320_stage10b_without_mask_grid.png
 - reports/figures/321_stage10b_with_mask_grid.png
 - reports/figures/322_stage10b_four_panel_grid.png
+
+### Stage 10C: breast-pair and contrast-transport visualization
+
+Main outputs:
+
+- reports/Stage10C_Breast_Pair_Obstacle_Visualization_Report.md
+- reports/figures/330_stage10c_breast_pair_grid.png
+- reports/figures/331_stage10c_obstacle_proxy_grid.png
+- reports/figures/332_stage10c_transport_field_grid.png

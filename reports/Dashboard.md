@@ -168,3 +168,8 @@ This dashboard gives GitHub-readable table previews for the ISPY2 4D vascular-pe
 
 - [Expanded preprocessing visual report](Stage10B_Expanded_Preprocessed_Visual_Output_Report.md)
 - [Preprocessed visual case manifest](table_views/stage10b_preprocessed_visual_case_manifest.md)
+
+## Stage 10C breast-pair obstacle visualization
+
+- [Breast-pair visualization report](Stage10C_Breast_Pair_Obstacle_Visualization_Report.md)
+- [Breast-pair case manifest](table_views/stage10c_breast_pair_case_manifest.md)
