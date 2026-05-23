@@ -222,3 +222,12 @@ Main outputs:
 - reports/figures/330_stage10c_breast_pair_grid.png
 - reports/figures/331_stage10c_obstacle_proxy_grid.png
 - reports/figures/332_stage10c_transport_field_grid.png
+
+### Stage 10D: thesis methods figure package
+
+Main outputs:
+
+- reports/Stage10D_Thesis_Methods_Figure_Package_Report.md
+- reports/figures/340_stage10d_master_methods_panel.png
+- reports/figures/341_stage10d_selected_case_contact_sheet.png
+- reports/figures/342_stage10d_final_pipeline_and_model_result.png

@@ -173,3 +173,9 @@ This dashboard gives GitHub-readable table previews for the ISPY2 4D vascular-pe
 
 - [Breast-pair visualization report](Stage10C_Breast_Pair_Obstacle_Visualization_Report.md)
 - [Breast-pair case manifest](table_views/stage10c_breast_pair_case_manifest.md)
+
+## Stage 10D thesis methods figure package
+
+- [Thesis methods figure package report](Stage10D_Thesis_Methods_Figure_Package_Report.md)
+- [Selected thesis cases](table_views/stage10d_selected_thesis_cases.md)
+- [Figure caption table](table_views/stage10d_thesis_figure_caption_table.md)
