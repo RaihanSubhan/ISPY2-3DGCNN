@@ -1,0 +1,13 @@
+# Stage 12D Final Publication Claims
+
+Rows: 6
+Columns: 3
+
+| claim_type | claim | evidence |
+| --- | --- | --- |
+| main_safe_claim | Official MRI/FTV support-data features produced the strongest current pilot pCR predict... | Phase 8C FTV SVM_RBF ranked first with AUROC 0.6667, AUPRC 0.7528, and Brier 0.2405. |
+| secondary_safe_claim | A temporal 3DGCNN-style model was implemented as an exploratory prototype. | Stage 12B ran a graph convolutional model on 13 patient-visit graphs. |
+| secondary_safe_claim | The 3DGCNN is not yet the main result. | Stage 12B did not outperform Phase 8C FTV SVM. |
+| avoid_claim | The 3DGCNN is clinically validated. | Only 13 patient graphs are available. |
+| avoid_claim | The flow or vessel animation measures true blood, milk, or fluid flow. | The current animations are conceptual contrast-transport proxies. |
+| future_claim | A larger longitudinal FTV/PE/SER graph model may improve pCR prediction. | This requires a larger cohort and richer tumor-region node features. |

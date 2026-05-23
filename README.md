@@ -321,3 +321,11 @@ Main outputs:
 - reports/Stage12C_3DGCNN_Decision_and_Novelty_Report.md
 - reports/tables/stage12c_model_ranking.csv
 - reports/figures/522_stage12c_novelty_map.png
+
+### Stage 12D: ideal novel paper framework
+
+Main outputs:
+
+- reports/Stage12D_Ideal_Novel_Paper_Framework_Report.md
+- reports/tables/stage12d_final_model_ranking.csv
+- reports/final_package/Stage12D_Ideal_Novel_Paper_Draft.md

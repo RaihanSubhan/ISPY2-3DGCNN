@@ -1,0 +1,18 @@
+# Stage 12D Ideal Paper Outline
+
+Rows: 11
+Columns: 3
+
+| section | content | purpose |
+| --- | --- | --- |
+| Title | Tumor-Source Validation and FTV-Based pCR Prediction in I-SPY2 Breast MRI with an Explo... | Honest title. It names FTV as the main result and 3DGCNN as exploratory. |
+| Abstract | Summarize tumor-source validation, FTV model result, and exploratory 3DGCNN framework. | Do not overclaim clinical validation. |
+| Introduction | Explain pCR prediction, ISPY2 MRI, tumor-source reliability, and why temporal graph lea... | Motivate the study. |
+| Methods: Dataset | Describe ISPY2 on Cradle, DICOM inventory, and support-data feature source. | Show reproducibility. |
+| Methods: Tumor-source validation | Describe DICOM SEG diagnosis and why raw masks were not used as the main source. | This is a key novelty. |
+| Methods: FTV model | Describe pCR label merge, FTV features, and classical ML models. | Main modeling path. |
+| Methods: Exploratory 3DGCNN | Describe patient-visit graph, node features, temporal edges, GCN layers, and graph pool... | Prototype framework. |
+| Results | Report model ranking. FTV SVM is best; 3DGCNN is exploratory. | Main results. |
+| Discussion | Explain why tumor-source validation matters and why GNN should remain future work. | Interpretation. |
+| Limitations | Small sample, no clinical validation, conceptual flow visuals, and limited validated 3D... | Safe scientific framing. |
+| Future work | Expand longitudinal FTV/PE/SER graph cohort and true tumor-region node features. | Path toward a real 3DGCNN paper. |

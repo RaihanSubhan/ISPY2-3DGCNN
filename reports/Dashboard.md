@@ -245,3 +245,10 @@ This dashboard gives GitHub-readable table previews for the ISPY2 4D vascular-pe
 - [3DGCNN decision and novelty report](Stage12C_3DGCNN_Decision_and_Novelty_Report.md)
 - [Model ranking](table_views/stage12c_model_ranking.md)
 - [Novel paper positioning](table_views/stage12c_novel_paper_positioning.md)
+
+## Stage 12D ideal novel paper framework
+
+- [Ideal novel paper framework report](Stage12D_Ideal_Novel_Paper_Framework_Report.md)
+- [Final model ranking](table_views/stage12d_final_model_ranking.md)
+- [Three paper alignment](table_views/stage12d_three_paper_alignment.md)
+- [Ideal paper draft](final_package/Stage12D_Ideal_Novel_Paper_Draft.md)
