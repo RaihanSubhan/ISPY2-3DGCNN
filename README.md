@@ -338,3 +338,11 @@ Main outputs:
 - reports/figures/600_stage13a_real_tumor_surface_graph.png
 - reports/figures/603_stage13a_rotating_tumor_graph.gif
 - reports/interactive/604_stage13a_interactive_tumor_graph.html
+
+### Stage 13B: publication-grade 3D tumor graph QC
+
+Main outputs:
+
+- reports/Stage13B_Publication_Grade_3D_Tumor_Graph_QC_Report.md
+- reports/figures/610_stage13b_publication_tumor_graph_panel.png
+- reports/interactive/616_stage13b_publication_tumor_graph.html

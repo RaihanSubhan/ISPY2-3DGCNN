@@ -259,3 +259,9 @@ This dashboard gives GitHub-readable table previews for the ISPY2 4D vascular-pe
 - [Tumor graph nodes](table_views/stage13a_tumor_graph_nodes.md)
 - [Tumor graph edges](table_views/stage13a_tumor_graph_edges.md)
 - [Interactive tumor graph](interactive/604_stage13a_interactive_tumor_graph.html)
+
+## Stage 13B publication-grade 3D tumor graph QC
+
+- [Publication-grade 3D tumor graph QC report](Stage13B_Publication_Grade_3D_Tumor_Graph_QC_Report.md)
+- [Graph QC metrics](table_views/stage13b_graph_qc_metrics.md)
+- [Interactive publication tumor graph](interactive/616_stage13b_publication_tumor_graph.html)

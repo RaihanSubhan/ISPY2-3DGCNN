@@ -1,0 +1,23 @@
+# Stage 13B Graph QC Metrics
+
+Rows: 16
+Columns: 2
+
+| metric | value |
+| --- | --- |
+| graph_nodes | 50.0 |
+| graph_edges | 143.0 |
+| connected_components | 1.0 |
+| mean_degree | 5.72 |
+| min_degree | 5.0 |
+| max_degree | 8.0 |
+| graph_density | 0.11673469387755102 |
+| mean_edge_distance | 0.20189429361412814 |
+| max_edge_distance | 0.35828516820759765 |
+| surface_area_proxy | 0.5202650427818298 |
+| mask_voxels | 284829.0 |
+| mask_z_extent | 80.0 |
+| mask_y_extent | 99.0 |
+| mask_x_extent | 100.0 |
+| mask_bbox_occupancy | 0.35963257575757573 |
+| mask_shape_ratio | 1.25 |
