@@ -185,3 +185,9 @@ This dashboard gives GitHub-readable table previews for the ISPY2 4D vascular-pe
 - [Final Word/PPT package report](Stage10E_Final_Word_PowerPoint_Package_Report.md)
 - reports/final_package/ISPY2_FTV_pCR_Final_Report.docx
 - reports/final_package/ISPY2_FTV_pCR_Final_Presentation.pptx
+
+## Stage 10F final package QC and professor review
+
+- [Final package QC report](Stage10F_Final_Package_QC_Professor_Review_Report.md)
+- [Final GitHub output index](Final_GitHub_Output_Index.md)
+- [Professor review checklist](table_views/stage10f_professor_review_checklist.md)

@@ -239,3 +239,11 @@ Main outputs:
 - reports/final_package/ISPY2_FTV_pCR_Final_Report.docx
 - reports/final_package/ISPY2_FTV_pCR_Final_Presentation.pptx
 - reports/Stage10E_Final_Word_PowerPoint_Package_Report.md
+
+### Stage 10F: final package QC and professor review
+
+Main outputs:
+
+- reports/Stage10F_Final_Package_QC_Professor_Review_Report.md
+- reports/Final_GitHub_Output_Index.md
+- reports/final_package/ISPY2_FTV_pCR_Professor_Review_Bundle.zip
