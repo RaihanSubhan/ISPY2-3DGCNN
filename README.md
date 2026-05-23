@@ -204,3 +204,12 @@ Main outputs:
 - reports/figures/311_stage10a_preprocess_without_with_mask_grid.png
 - reports/figures/312_stage10a_segmentation_top_bottom_grid.png
 - reports/figures/313_stage10a_breast_pair_obstacle_grid.png
+
+### Stage 10B: expanded preprocessing visual outputs
+
+Main outputs:
+
+- reports/Stage10B_Expanded_Preprocessed_Visual_Output_Report.md
+- reports/figures/320_stage10b_without_mask_grid.png
+- reports/figures/321_stage10b_with_mask_grid.png
+- reports/figures/322_stage10b_four_panel_grid.png

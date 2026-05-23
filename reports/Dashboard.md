@@ -163,3 +163,8 @@ This dashboard gives GitHub-readable table previews for the ISPY2 4D vascular-pe
 
 - [Dataset and visual preprocessing report](Stage10A_Dataset_Visual_Preprocessing_Report.md)
 - [Visual preprocessing case summary](table_views/stage10a_visual_preprocessing_case_summary.md)
+
+## Stage 10B expanded preprocessing visuals
+
+- [Expanded preprocessing visual report](Stage10B_Expanded_Preprocessed_Visual_Output_Report.md)
+- [Preprocessed visual case manifest](table_views/stage10b_preprocessed_visual_case_manifest.md)
