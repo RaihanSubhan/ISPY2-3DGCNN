@@ -158,3 +158,8 @@ This dashboard gives GitHub-readable table previews for the ISPY2 4D vascular-pe
 - [Temporal graph model decision report](Phase9C_Temporal_Graph_Model_Decision_Report.md)
 - [Model decision summary](table_views/phase9c_model_decision_summary.md)
 - [Next research plan](table_views/phase9c_next_research_plan.md)
+
+## Stage 10A visual preprocessing
+
+- [Dataset and visual preprocessing report](Stage10A_Dataset_Visual_Preprocessing_Report.md)
+- [Visual preprocessing case summary](table_views/stage10a_visual_preprocessing_case_summary.md)

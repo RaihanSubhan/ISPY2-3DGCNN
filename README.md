@@ -195,3 +195,12 @@ Main outputs:
 - reports/Phase9C_Temporal_Graph_Model_Decision_Report.md
 - reports/tables/phase9c_model_decision_summary.csv
 - reports/figures/300_phase9c_model_decision.png
+
+### Stage 10A: dataset structure and visual preprocessing
+
+Main outputs:
+
+- reports/Stage10A_Dataset_Visual_Preprocessing_Report.md
+- reports/figures/311_stage10a_preprocess_without_with_mask_grid.png
+- reports/figures/312_stage10a_segmentation_top_bottom_grid.png
+- reports/figures/313_stage10a_breast_pair_obstacle_grid.png

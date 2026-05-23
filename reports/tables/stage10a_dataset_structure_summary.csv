@@ -1,0 +1,7 @@
+metric,value
+dataset_root,/home/mdsubhan01/ispy2/ispy2
+dataset_size_du,1.6T
+patients,719
+studies,2688
+series,32411
+dicom_files_counted,5586493
