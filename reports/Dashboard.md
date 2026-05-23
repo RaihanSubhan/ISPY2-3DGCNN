@@ -203,3 +203,9 @@ This dashboard gives GitHub-readable table previews for the ISPY2 4D vascular-pe
 - [Final repository freeze report](Stage10H_Final_Repository_Freeze_Report.md)
 - [Final repository freeze QC](table_views/stage10h_final_repository_freeze_qc.md)
 - [Release notes](final_package/RELEASE_NOTES_v1.0-pilot-ftv-pcr.md)
+
+## Stage 10I post-release polish
+
+- [Post-release polish report](Stage10I_Post_Release_Polish_Report.md)
+- [Final handoff ready note](final_package/FINAL_HANDOFF_READY.md)
+- [Post-release polish QC](table_views/stage10i_post_release_polish_qc.md)

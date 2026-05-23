@@ -263,3 +263,11 @@ Main outputs:
 - FINAL_STATUS.md
 - reports/Stage10H_Final_Repository_Freeze_Report.md
 - reports/final_package/RELEASE_NOTES_v1.0-pilot-ftv-pcr.md
+
+### Stage 10I: post-release polish
+
+Main outputs:
+
+- reports/Stage10I_Post_Release_Polish_Report.md
+- reports/final_package/FINAL_HANDOFF_READY.md
+- reports/tables/stage10i_post_release_polish_qc.csv

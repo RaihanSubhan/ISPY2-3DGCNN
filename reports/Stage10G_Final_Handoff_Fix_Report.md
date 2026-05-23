@@ -23,4 +23,4 @@ The professor handoff package is ready.
 
 ## Next step
 
-Force-add the ZIP bundle because it is ignored by .gitignore, then push to GitHub.
+The ZIP bundle has been force-added and pushed. Send the final Word report, PowerPoint, or review bundle to the professor.

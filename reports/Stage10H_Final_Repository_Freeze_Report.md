@@ -25,4 +25,4 @@ The repository is ready to freeze and tag.
 
 ## Next step
 
-Commit Stage 10H, push it, and create the tag `v1.0-pilot-ftv-pcr`.
+Stage 10H has been committed, pushed, and tagged as `v1.0-pilot-ftv-pcr`. No further code is needed for this research cycle.
