@@ -305,3 +305,11 @@ Main outputs:
 - reports/figures/420_stage11b_bidirectional_transport_animation.gif
 - reports/figures/421_stage11b_rotating_tumor_vessel_animation.gif
 - reports/figures/422_stage11b_multivisit_growth_animation.gif
+
+### Stage 12B: exploratory temporal 3DGCNN
+
+Main outputs:
+
+- reports/Stage12B_Exploratory_Temporal_3DGCNN_Report.md
+- reports/tables/stage12b_3dgcnn_model_performance.csv
+- reports/figures/514_stage12b_3dgcnn_schema.png

@@ -1,0 +1,10 @@
+# Stage 12B 3DGCNN vs Existing Models
+
+Rows: 3
+Columns: 6
+
+| analysis | best_model | n_patients | AUROC | AUPRC | Brier_score |
+| --- | --- | --- | --- | --- | --- |
+| Phase 8C FTV SVM baseline | SVM_RBF | 13 | 0.6666666666666667 | 0.7527734170591311 | 0.2405088066605158 |
+| Phase 9B temporal-delta baseline | RandomForest | 13 | 0.5714285714285714 | 0.6059523809523809 | 0.2724052884615385 |
+| Stage 12B exploratory temporal 3DGCNN | Exploratory_Temporal_3DGCNN | 13 | 0.5714285714285714 | 0.5897186147186146 | 0.3909146814623245 |

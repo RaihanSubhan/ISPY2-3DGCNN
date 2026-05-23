@@ -233,3 +233,9 @@ This dashboard gives GitHub-readable table previews for the ISPY2 4D vascular-pe
 - [Animated 3D visualization fix report](Stage11B_Animated_3D_Visualization_Fix_Report.md)
 - [Animation manifest](table_views/stage11b_animation_manifest.md)
 - [Visual claims and limits](table_views/stage11b_visual_claims_and_limits.md)
+
+## Stage 12B exploratory temporal 3DGCNN
+
+- [Exploratory temporal 3DGCNN report](Stage12B_Exploratory_Temporal_3DGCNN_Report.md)
+- [3DGCNN model performance](table_views/stage12b_3dgcnn_model_performance.md)
+- [3DGCNN vs existing models](table_views/stage12b_3dgcnn_vs_existing_models.md)
