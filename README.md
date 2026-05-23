@@ -329,3 +329,12 @@ Main outputs:
 - reports/Stage12D_Ideal_Novel_Paper_Framework_Report.md
 - reports/tables/stage12d_final_model_ranking.csv
 - reports/final_package/Stage12D_Ideal_Novel_Paper_Draft.md
+
+### Stage 13A: real 3D tumor graph from recovered mask
+
+Main outputs:
+
+- reports/Stage13A_Real_3D_Tumor_Graph_From_Mask_Report.md
+- reports/figures/600_stage13a_real_tumor_surface_graph.png
+- reports/figures/603_stage13a_rotating_tumor_graph.gif
+- reports/interactive/604_stage13a_interactive_tumor_graph.html

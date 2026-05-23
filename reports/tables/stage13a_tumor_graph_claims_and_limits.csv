@@ -1,0 +1,5 @@
+component,safe_claim,limit
+tumor surface,The tumor surface is derived from a recovered fractional tumor mask.,It is not a manual clinical segmentation unless clinically verified.
+graph nodes,Graph nodes are spatial clusters of tumor voxels.,"They are computational graph regions, not histologic regions."
+graph edges,Edges connect nearby tumor graph nodes in 3D space.,Edges are not measured vessels.
+pseudo-3D warning,"If the recovered mask is too thin, pseudo-3D is built from the real 2D outline.",Pseudo-3D is a visualization approximation and must be labeled clearly.

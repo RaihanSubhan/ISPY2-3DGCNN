@@ -252,3 +252,10 @@ This dashboard gives GitHub-readable table previews for the ISPY2 4D vascular-pe
 - [Final model ranking](table_views/stage12d_final_model_ranking.md)
 - [Three paper alignment](table_views/stage12d_three_paper_alignment.md)
 - [Ideal paper draft](final_package/Stage12D_Ideal_Novel_Paper_Draft.md)
+
+## Stage 13A real 3D tumor graph
+
+- [Real 3D tumor graph report](Stage13A_Real_3D_Tumor_Graph_From_Mask_Report.md)
+- [Tumor graph nodes](table_views/stage13a_tumor_graph_nodes.md)
+- [Tumor graph edges](table_views/stage13a_tumor_graph_edges.md)
+- [Interactive tumor graph](interactive/604_stage13a_interactive_tumor_graph.html)
