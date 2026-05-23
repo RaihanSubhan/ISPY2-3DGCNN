@@ -1,0 +1,7 @@
+claim_type,claim,evidence
+safe_main_claim,Official MRI/FTV support-data features produced the strongest current pilot pCR prediction signal.,Phase 8C FTV SVM_RBF ranked first with AUROC 0.6667 and AUPRC 0.7528.
+safe_secondary_claim,A temporal 3DGCNN-style graph model was implemented as an exploratory prototype.,Stage 12B ran on 13 patient graphs with temporal visit edges.
+safe_secondary_claim,The 3DGCNN is not yet the main model.,Stage 12B 3DGCNN underperformed Phase 8C FTV SVM.
+avoid_claim,The 3DGCNN is clinically validated.,Only 13 patient graphs were available.
+avoid_claim,"The vessel/flow animations measure blood, milk, or fluid flow.",They are conceptual contrast-transport proxies only.
+future_claim,A larger longitudinal FTV/PE/SER graph model may improve pCR prediction.,This should be tested after more patient graphs or stronger tumor-region features are available.

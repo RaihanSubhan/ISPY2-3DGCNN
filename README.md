@@ -313,3 +313,11 @@ Main outputs:
 - reports/Stage12B_Exploratory_Temporal_3DGCNN_Report.md
 - reports/tables/stage12b_3dgcnn_model_performance.csv
 - reports/figures/514_stage12b_3dgcnn_schema.png
+
+### Stage 12C: 3DGCNN decision and novelty report
+
+Main outputs:
+
+- reports/Stage12C_3DGCNN_Decision_and_Novelty_Report.md
+- reports/tables/stage12c_model_ranking.csv
+- reports/figures/522_stage12c_novelty_map.png

@@ -239,3 +239,9 @@ This dashboard gives GitHub-readable table previews for the ISPY2 4D vascular-pe
 - [Exploratory temporal 3DGCNN report](Stage12B_Exploratory_Temporal_3DGCNN_Report.md)
 - [3DGCNN model performance](table_views/stage12b_3dgcnn_model_performance.md)
 - [3DGCNN vs existing models](table_views/stage12b_3dgcnn_vs_existing_models.md)
+
+## Stage 12C 3DGCNN decision and novelty
+
+- [3DGCNN decision and novelty report](Stage12C_3DGCNN_Decision_and_Novelty_Report.md)
+- [Model ranking](table_views/stage12c_model_ranking.md)
+- [Novel paper positioning](table_views/stage12c_novel_paper_positioning.md)
