@@ -179,3 +179,9 @@ This dashboard gives GitHub-readable table previews for the ISPY2 4D vascular-pe
 - [Thesis methods figure package report](Stage10D_Thesis_Methods_Figure_Package_Report.md)
 - [Selected thesis cases](table_views/stage10d_selected_thesis_cases.md)
 - [Figure caption table](table_views/stage10d_thesis_figure_caption_table.md)
+
+## Stage 10E final report and presentation
+
+- [Final Word/PPT package report](Stage10E_Final_Word_PowerPoint_Package_Report.md)
+- reports/final_package/ISPY2_FTV_pCR_Final_Report.docx
+- reports/final_package/ISPY2_FTV_pCR_Final_Presentation.pptx

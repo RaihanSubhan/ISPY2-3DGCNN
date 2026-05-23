@@ -231,3 +231,11 @@ Main outputs:
 - reports/figures/340_stage10d_master_methods_panel.png
 - reports/figures/341_stage10d_selected_case_contact_sheet.png
 - reports/figures/342_stage10d_final_pipeline_and_model_result.png
+
+### Stage 10E: final Word report and PowerPoint
+
+Main outputs:
+
+- reports/final_package/ISPY2_FTV_pCR_Final_Report.docx
+- reports/final_package/ISPY2_FTV_pCR_Final_Presentation.pptx
+- reports/Stage10E_Final_Word_PowerPoint_Package_Report.md
