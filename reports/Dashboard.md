@@ -197,3 +197,9 @@ This dashboard gives GitHub-readable table previews for the ISPY2 4D vascular-pe
 - [Final handoff fix report](Stage10G_Final_Handoff_Fix_Report.md)
 - [Professor handoff manifest](table_views/stage10g_professor_handoff_manifest.md)
 - `reports/final_package/ISPY2_FTV_pCR_Professor_Review_Bundle.zip`
+
+## Stage 10H final repository freeze
+
+- [Final repository freeze report](Stage10H_Final_Repository_Freeze_Report.md)
+- [Final repository freeze QC](table_views/stage10h_final_repository_freeze_qc.md)
+- [Release notes](final_package/RELEASE_NOTES_v1.0-pilot-ftv-pcr.md)

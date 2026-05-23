@@ -255,3 +255,11 @@ Main outputs:
 - reports/Stage10G_Final_Handoff_Fix_Report.md
 - reports/final_package/ISPY2_FTV_pCR_Professor_Review_Bundle.zip
 - reports/final_package/Professor_Email_Draft.md
+
+### Stage 10H: final repository freeze
+
+Main outputs:
+
+- FINAL_STATUS.md
+- reports/Stage10H_Final_Repository_Freeze_Report.md
+- reports/final_package/RELEASE_NOTES_v1.0-pilot-ftv-pcr.md
