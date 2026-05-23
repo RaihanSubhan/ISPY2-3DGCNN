@@ -1,0 +1,8 @@
+# Stage 10J Release Status
+
+Rows: 1
+Columns: 8
+
+| current_branch | current_commit | origin_main_commit | branch_synced_with_origin_main | working_tree_clean_before_stage10j_commit | old_tag_v1_0_pilot_ftv_pcr_commit | old_tag_points_to_current_head | recommended_new_tag |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| main | 9787e0e08cbe59dd934c43f56d8e23452c120212 | 9787e0e08cbe59dd934c43f56d8e23452c120212 | yes | no | e51a80f556341a67ba6e8ced08ac28ab55edd7bd | no | v1.0.1-final-handoff |

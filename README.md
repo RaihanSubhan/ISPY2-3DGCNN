@@ -271,3 +271,11 @@ Main outputs:
 - reports/Stage10I_Post_Release_Polish_Report.md
 - reports/final_package/FINAL_HANDOFF_READY.md
 - reports/tables/stage10i_post_release_polish_qc.csv
+
+### Stage 10J: final after-push verification
+
+Main outputs:
+
+- reports/Stage10J_Final_After_Push_Verification_Report.md
+- reports/tables/stage10j_final_after_push_qc.csv
+- reports/tables/stage10j_release_status.csv

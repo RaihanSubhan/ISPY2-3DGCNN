@@ -30,3 +30,7 @@ This is a pilot feasibility study, not clinical validation.
 - Is the main claim safe?
 - Should temporal GNN stay as future work?
 - Which parts should be expanded for thesis or publication?
+
+## Final verification
+
+Stage 10J verifies that the final package is present and Git-tracked after push. Use tag `v1.0.1-final-handoff` as the final professor-handoff version.
