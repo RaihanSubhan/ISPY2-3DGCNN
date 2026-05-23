@@ -287,3 +287,12 @@ Main outputs:
 - reports/Stage10K_Final_Visual_Methods_QC_Report.md
 - reports/tables/stage10k_four_task_completion_checklist.csv
 - reports/figures/401_stage10k_best_visual_case_panel.png
+
+### Stage 11A: 3D flow-vessel-growth visualization
+
+Main outputs:
+
+- reports/Stage11A_3D_Flow_Vessel_Growth_Visualization_Report.md
+- reports/figures/410_stage11a_bidirectional_flow_proxy.png
+- reports/figures/411_stage11a_3d_tumor_vessel_schematic.png
+- reports/figures/412_stage11a_multivisit_3d_tumor_growth.png

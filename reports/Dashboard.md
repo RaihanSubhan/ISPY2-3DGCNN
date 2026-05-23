@@ -221,3 +221,9 @@ This dashboard gives GitHub-readable table previews for the ISPY2 4D vascular-pe
 - [Final visual methods QC report](Stage10K_Final_Visual_Methods_QC_Report.md)
 - [Four task checklist](table_views/stage10k_four_task_completion_checklist.md)
 - [Thesis visual figure plan](table_views/stage10k_thesis_visual_figure_plan.md)
+
+## Stage 11A 3D flow-vessel-growth visualization
+
+- [3D flow, vessel, and tumor-growth report](Stage11A_3D_Flow_Vessel_Growth_Visualization_Report.md)
+- [Selected case manifest](table_views/stage11a_selected_case_manifest.md)
+- [Visual claims and limits](table_views/stage11a_visual_claims_and_limits.md)
