@@ -1,0 +1,11 @@
+# Stage 10K Four Task Completion Checklist
+
+Rows: 4
+Columns: 7
+
+| task_no | requested_task | status | main_report | main_table | main_figure | notes |
+| --- | --- | --- | --- | --- | --- | --- |
+| 1 | Dataset structure with size and output | done | reports/Stage10A_Dataset_Visual_Preprocessing_Report.md | reports/tables/stage10a_dataset_structure_summary.csv | reports/figures/310_stage10a_dataset_modality_counts.png | Reports size, patient count, studies, series, and DICOM files. |
+| 2 | Preprocessed dataset without mask and with mask visual output | done | reports/Stage10B_Expanded_Preprocessed_Visual_Output_Report.md | reports/tables/stage10b_preprocessed_visual_case_manifest.csv | reports/figures/322_stage10b_four_panel_grid.png | Raw MRI, preprocessed MRI, and mask overlay panels. |
+| 3 | Segmentation top raw MRI + raw mask, bottom preprocessed MRI + preprocessed mask | done | reports/Stage10B_Expanded_Preprocessed_Visual_Output_Report.md | reports/tables/stage10b_preprocessed_visual_case_manifest.csv | reports/figures/322_stage10b_four_panel_grid.png | Use Stage 10B four-panel grid as the main thesis-ready segmentation visual. |
+| 4 | Merge left and right breasts into a single breast pair with obstacle-style visualization | done | reports/Stage10C_Breast_Pair_Obstacle_Visualization_Report.md | reports/tables/stage10c_breast_pair_case_manifest.csv | reports/figures/330_stage10c_breast_pair_grid.png | Obstacle map must be described as contrast-transport proxy only, not direct fluid flow. |

@@ -1,0 +1,14 @@
+# Stage 10K Thesis Visual Figure Plan
+
+Rows: 7
+Columns: 5
+
+| figure_order | figure_title | file_to_show | paper_section | why_show_it |
+| --- | --- | --- | --- | --- |
+| 1 | Dataset structure and pipeline | reports/figures/270_phase8e_project_pipeline.png | Methods overview | Explains the full data and modeling workflow. |
+| 2 | Dataset size and modality structure | reports/figures/310_stage10a_dataset_modality_counts.png | Dataset | Supports dataset structure and DICOM inventory. |
+| 3 | Raw and preprocessed MRI with mask | reports/figures/322_stage10b_four_panel_grid.png | Preprocessing | Shows preprocessing without mask and with mask. |
+| 4 | Breast-pair and contrast-transport proxy | reports/figures/331_stage10c_obstacle_proxy_grid.png | Visual methods | Shows the single breast-pair and conceptual tumor obstacle map. |
+| 5 | Final methods panel | reports/figures/340_stage10d_master_methods_panel.png | Methods summary | Best one-figure summary of the visual methods. |
+| 6 | Main model comparison | reports/figures/260_phase8d_baseline_vs_ftv_metrics.png | Results | Shows FTV model improvement over baseline. |
+| 7 | Temporal graph future-work decision | reports/figures/300_phase9c_model_decision.png | Discussion and future work | Shows why temporal GNN is future work, not the current main model. |

@@ -279,3 +279,11 @@ Main outputs:
 - reports/Stage10J_Final_After_Push_Verification_Report.md
 - reports/tables/stage10j_final_after_push_qc.csv
 - reports/tables/stage10j_release_status.csv
+
+### Stage 10K: final visual methods QC
+
+Main outputs:
+
+- reports/Stage10K_Final_Visual_Methods_QC_Report.md
+- reports/tables/stage10k_four_task_completion_checklist.csv
+- reports/figures/401_stage10k_best_visual_case_panel.png

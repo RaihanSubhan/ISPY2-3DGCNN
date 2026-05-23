@@ -215,3 +215,9 @@ This dashboard gives GitHub-readable table previews for the ISPY2 4D vascular-pe
 - [Final after-push verification report](Stage10J_Final_After_Push_Verification_Report.md)
 - [Final after-push QC](table_views/stage10j_final_after_push_qc.md)
 - [Release status](table_views/stage10j_release_status.md)
+
+## Stage 10K final visual methods QC
+
+- [Final visual methods QC report](Stage10K_Final_Visual_Methods_QC_Report.md)
+- [Four task checklist](table_views/stage10k_four_task_completion_checklist.md)
+- [Thesis visual figure plan](table_views/stage10k_thesis_visual_figure_plan.md)
