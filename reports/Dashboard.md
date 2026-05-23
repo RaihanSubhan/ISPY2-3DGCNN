@@ -227,3 +227,9 @@ This dashboard gives GitHub-readable table previews for the ISPY2 4D vascular-pe
 - [3D flow, vessel, and tumor-growth report](Stage11A_3D_Flow_Vessel_Growth_Visualization_Report.md)
 - [Selected case manifest](table_views/stage11a_selected_case_manifest.md)
 - [Visual claims and limits](table_views/stage11a_visual_claims_and_limits.md)
+
+## Stage 11B animated 3D visualization fix
+
+- [Animated 3D visualization fix report](Stage11B_Animated_3D_Visualization_Fix_Report.md)
+- [Animation manifest](table_views/stage11b_animation_manifest.md)
+- [Visual claims and limits](table_views/stage11b_visual_claims_and_limits.md)

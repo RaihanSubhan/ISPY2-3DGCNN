@@ -1,0 +1,11 @@
+# Stage 11B Animation Manifest
+
+Rows: 4
+Columns: 5
+
+| file | type | what_it_shows | safe_wording | unsafe_wording |
+| --- | --- | --- | --- | --- |
+| reports/figures/420_stage11b_bidirectional_transport_animation.gif | animated GIF | conceptual left-to-right and right-to-left contrast-transport disturbance around tumor | conceptual transport proxy | measured blood, milk, or fluid flow |
+| reports/figures/421_stage11b_rotating_tumor_vessel_animation.gif | animated GIF | rotating transparent breast shell with schematic tumor and vessel-like curves | schematic tumor-vessel relationship | validated vessel segmentation |
+| reports/figures/422_stage11b_multivisit_growth_animation.gif | animated GIF | FTV-scaled multivisit tumor-size visualization with dates/days | FTV-scaled longitudinal tumor growth visualization | registered voxel-level growth map |
+| reports/figures/423_stage11b_publication_static_storyboard.png | static PNG | publication-style still panels from the animations | visual methods figure | direct physiological proof |

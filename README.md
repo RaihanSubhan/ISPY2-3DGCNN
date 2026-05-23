@@ -296,3 +296,12 @@ Main outputs:
 - reports/figures/410_stage11a_bidirectional_flow_proxy.png
 - reports/figures/411_stage11a_3d_tumor_vessel_schematic.png
 - reports/figures/412_stage11a_multivisit_3d_tumor_growth.png
+
+### Stage 11B: animated 3D visualization fix
+
+Main outputs:
+
+- reports/Stage11B_Animated_3D_Visualization_Fix_Report.md
+- reports/figures/420_stage11b_bidirectional_transport_animation.gif
+- reports/figures/421_stage11b_rotating_tumor_vessel_animation.gif
+- reports/figures/422_stage11b_multivisit_growth_animation.gif
