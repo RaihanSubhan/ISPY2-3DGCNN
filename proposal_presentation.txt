@@ -1,0 +1,22 @@
+# Proposal Presentation Plan - ISPY2-3DGCNN
+
+## Title Slide
+- **Title:** ISPY2-3DGCNN: Research Proposal for ISPY2 Tumor Visualization and Modeling
+- **Subtitle:** Leveraging 3DGCNNs for Advanced MRI Analysis Techniques
+- **Author:** Raihan Subhan
+- **URL:** https://github.com/RaihanSubhan/ISPY2-3DGCNN
+
+## Background Overview
+**Objective:**
+- Enhance MRI-based tumor segmentation and pCR (Pathologic Complete Response) modeling.
+- Deliver academic-grade metrics via functional tumor data evaluation.
+
+## Research Goals
+1. Deploy a phase-based workflow to assess imaging feature extraction.
+2. Propose exploratory graph models as part of future alternatives; QC pass rates.
+3. Model calibration ensuring statistically verified biomarker tables at fruition.
+
+## Deliverables Pipeline:
+- Diagnostic-ready tumor segmentation patches, graphs, phase QC Analytics Reports Standards.
+
+The slides further detail cross-validation metrics.
