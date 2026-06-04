@@ -1,0 +1,13 @@
+model,metric,estimate,ci95_low,ci95_high,n_valid_bootstrap
+SVM_RBF,AUROC,0.6667,0.3056,1.0,4997
+SVM_RBF,AUPRC,0.7528,0.4405,1.0,4998
+SVM_RBF,Brier,0.2405,0.1663,0.3274,5000
+GradientBoosting,AUROC,0.5357,0.1905,0.9,4999
+GradientBoosting,AUPRC,0.5797,0.3205,0.9519,4999
+GradientBoosting,Brier,0.3335,0.1042,0.5673,5000
+RandomForest,AUROC,0.5,0.1429,0.875,4998
+RandomForest,AUPRC,0.5569,0.3141,0.952,4999
+RandomForest,Brier,0.2677,0.1878,0.3548,5000
+LogisticRegression,AUROC,0.5,0.1429,0.85,4999
+LogisticRegression,AUPRC,0.5803,0.3106,0.942,4998
+LogisticRegression,Brier,0.4173,0.206,0.6433,5000
