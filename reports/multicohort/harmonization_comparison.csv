@@ -1,0 +1,4 @@
+,duke,spy1,spy2,mean
+raw,0.654,0.78,0.693,0.709
+per-cohort z-score,0.662,0.78,0.699,0.714
+per-cohort rank-norm,0.668,0.538,0.68,0.629

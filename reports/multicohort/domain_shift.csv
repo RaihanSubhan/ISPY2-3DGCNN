@@ -1,0 +1,4 @@
+pair,domain_AUROC
+duke vs spy1,0.988
+duke vs spy2,0.998
+spy1 vs spy2,0.58
