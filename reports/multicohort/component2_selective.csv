@@ -1,0 +1,8 @@
+metric,value
+OOD detection AUROC (I-SPY test vs Duke),0.488
+Duke patients flagged OOD (frac),0.025
+I-SPY test accuracy (no abstention),0.632
+I-SPY test coverage at guarantee,0.489
+I-SPY test accuracy on accepted,0.832
+Duke abstention rate,0.507
+Duke accuracy on accepted,0.788
